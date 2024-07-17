@@ -5,7 +5,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  NAMESPACE: mcuf-idim
+  NAMESPACE: kataikko
   IMAGE_NAME: keycloak-ukf-themes
 
 jobs:
